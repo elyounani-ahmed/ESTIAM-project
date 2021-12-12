@@ -1,11 +1,13 @@
 # ESTIAM-project
-Tools:
+Outils:
 
 Node and NPM: https://nodejs.org/en/
 
 IDE: https://code.visualstudio.com/
 
 postgres Database: https://www.elephantsql.com/
+
+Typeorm: https://typeorm.io/
 
 API Development, Testing: https://www.postman.com/
 
